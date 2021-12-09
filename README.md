@@ -3,4 +3,5 @@ Aprendendo usar github
 
  Repositorio de aulas html
 
-Primeira alteração no repertorio
+Primeira alteração no repositorio
+
